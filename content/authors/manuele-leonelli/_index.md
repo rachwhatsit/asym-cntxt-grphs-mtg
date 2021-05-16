@@ -1,6 +1,6 @@
 ---
 title: Manuele Leonelli
-role: " Assistant Professor, IE University"
+role: " Assistant Professor"
 avatar_filename: dsc_0220_00001.jpeg
 bio: " I am working in Bayesian statistics and decision analysis."
 social:
