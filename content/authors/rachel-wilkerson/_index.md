@@ -22,7 +22,7 @@ organizations:
     url: http://tesserwell.co/
 education:
   courses:
-    - course: PhD, Stsatistics
+    - course: PhD, Statistics
       institution: University of Warwick
 superuser: false
 user_groups:
