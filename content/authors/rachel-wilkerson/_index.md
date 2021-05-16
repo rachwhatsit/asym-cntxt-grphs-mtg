@@ -1,6 +1,6 @@
 ---
 title: Rachel Wilkerson
-role: Visiting Researcher, Baylor University
+role: Visiting Researcher
 avatar_filename: img_2745.jpg
 bio: Statistician in Central Texas researching causal inference in graphical models.
 interests: []
