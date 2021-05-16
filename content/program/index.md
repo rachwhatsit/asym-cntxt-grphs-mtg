@@ -1,22 +1,12 @@
----
-title: Program
-summary: Here we describe how to add a page to your site.
-date: "2018-06-28T00:00:00Z"
+### Tutorial 
 
-reading_time: false  # Show estimated reading time?
-share: true  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
+Title: Using the `stagedtrees` to fit Staged Event Trees
+Speaker: Dr. Gherardo Varando
 
-# Optional header image (relative to `assets/media/` folder).
-header:
-  caption: ""
-  image: ""
----
+### Keynote 
+TBD 
 
-
-The program will be composed of a keynote talk, a tutorial on software packages, and four sessions of particular subtopics. The subtopics are: 
-
+### Sessions
 #### Causal inference 
 
 How do asymmetric and context-specific models generate more flexible causal inference? 
