@@ -18,4 +18,4 @@ advanced:
 ---
 
 July 19-20, 2021
-Online Host: Baylor University
+Online Host: Baylor University Department of Statistics

@@ -1,10 +1,19 @@
 ---
+title: Program
+summary: Here we describe how to add a page to your site.
+date: "2018-06-28T00:00:00Z"
+
+reading_time: false  # Show estimated reading time?
+share: true  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
+# Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
   image: ""
-title: Program
-view: 2
 ---
+
 
 The program will be composed of a keynote talk, a tutorial on software packages, and four sessions of particular subtopics. The subtopics are: 
 

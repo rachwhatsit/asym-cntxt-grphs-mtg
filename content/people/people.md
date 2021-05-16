@@ -1,19 +1,14 @@
 ---
 content:
   user_groups:
-  - Principal Investigators
-  - Researchers
-  - Grad Students
-  - Administration
-  - Visitors
-  - Alumni
+  - Confirmed Speakers
 design:
   show_interests: false
   show_role: true
   show_social: true
 headless: true
 subtitle: null
-title: Confirmed Speakers
+title: People
 weight: 68
 widget: people
 active: true
