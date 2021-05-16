@@ -1,7 +1,8 @@
 ---
 content:
   user_groups:
-  - Confirmed Speakers
+  - Speakers
+  - Organizers
 design:
   show_interests: false
   show_role: true
