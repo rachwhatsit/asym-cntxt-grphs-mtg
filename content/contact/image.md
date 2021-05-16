@@ -1,4 +1,5 @@
 ---
+active: false
 advanced:
   css_class: fullscreen
 design:

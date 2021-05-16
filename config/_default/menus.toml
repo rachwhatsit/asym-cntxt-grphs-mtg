@@ -8,24 +8,25 @@
 #  url = "/"
 #  weight = 10
 
-[[main]]
-  name = "News"
-  url = "post"
-  weight = 20
 
+[[main]]
+  name = "About"
+  url = "about"
+  weight = 30
+  
 [[main]]
   name = "People"
   url = "people"
   weight = 30
 
 [[main]]
-  name = "Events"
-  url = "event"
+  name = "Program"
+  url = "program"
   weight = 40
 
 [[main]]
-  name = "Publications"
-  url = "publication"
+  name = "Registration"
+  url = "registration"
   weight = 50
 
 [[main]]

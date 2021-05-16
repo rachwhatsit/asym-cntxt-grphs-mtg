@@ -13,7 +13,8 @@ design:
   show_social: true
 headless: true
 subtitle: null
-title: Meet the Team
+title: Confirmed Speakers
 weight: 68
 widget: people
+active: true
 ---

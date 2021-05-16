@@ -16,4 +16,14 @@ weight: 10
 widget: contact
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Are you curious about asymmetric and context-specific probabilistic graphical models? Do you have questions about the registration, program, or the conference schedule? 
+
+Please feel free to contact us with any questions.
+
+#### Online Host
+Baylor University
+
+### Coordinators 
+* Dr. Manuele Leonelli, IE University
+* Dr. Rachel Wilkerson, Baylor University
+* Dr. Aditi Shenvi, University of Warwick
