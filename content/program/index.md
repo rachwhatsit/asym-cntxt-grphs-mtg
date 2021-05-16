@@ -1,12 +1,13 @@
-### Tutorial 
+## Tutorial 
 
 Title: Using the `stagedtrees` to fit Staged Event Trees
+
 Speaker: Dr. Gherardo Varando
 
-### Keynote 
+## Keynote 
 TBD 
 
-### Sessions
+## Sessions
 #### Causal inference 
 
 How do asymmetric and context-specific models generate more flexible causal inference? 
