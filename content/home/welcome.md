@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Reasoning with asymmetric and context-specific graphs Conference"
+title: "Conference on reasoning with asymmetric and context-specific graphs"
 subtitle: ""
 hero_media: welcome.jpg
 design:
