@@ -20,10 +20,3 @@ Are you curious about asymmetric and context-specific probabilistic graphical mo
 
 Please feel free to contact us with any questions.
 
-#### Online Host
-Baylor University
-
-### Coordinators 
-* Dr. Manuele Leonelli, IE University
-* Dr. Rachel Wilkerson, Baylor University
-* Dr. Aditi Shenvi, University of Warwick
