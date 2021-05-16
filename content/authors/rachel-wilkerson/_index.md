@@ -25,5 +25,7 @@ education:
     - course: PhD, Stsatistics
       institution: University of Warwick
 superuser: false
+user_groups:
+  - Organizers
 ---
 As a visiting researcher at Baylor, I study how graphical models and causal inference can be customized to domain expertise. I completed my PhD at the University of Warwick.
