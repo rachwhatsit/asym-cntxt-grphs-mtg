@@ -1,7 +1,6 @@
 ## Tutorial 
 
-Title: Using the `stagedtrees` to fit Staged Event Trees
-
+Title: Using the `stagedtrees` packageto fit Staged Event Trees  
 Speaker: Dr. Gherardo Varando
 
 ## Keynote 
@@ -14,16 +13,15 @@ How do asymmetric and context-specific models generate more flexible causal infe
 
 #### Categorical Data 
 
-Tree-based models are particularly relevant for categorical data.
+Asymmetric and contex-specific graphical models ar eparticularly adept at handling categorical data. 
 
 #### Dynamic Variants
 
-Dynamic adapatation of tree-based models are appearing on the horizon.
+Tree-based and context-specific models are being adapted to include dynamic variants.
 
 #### Algebraic 
 
-Algebraic advancements necessary for building models.
-
+This session discusses algebraic advancements adjacent to context-specific and asymmetric graphical models. 
 #### Applications
 
 This session explores powerful applications of these broader models. Particular cases include legal applications and medial studies.
