@@ -15,9 +15,15 @@ How do asymmetric and context-specific models generate more flexible causal infe
 
 Asymmetric and contex-specific graphical models ar eparticularly adept at handling categorical data. 
 
+Speakers:
+* Dr. Federica Nicolussi
+
 #### Dynamic Variants
 
 Tree-based and context-specific models are being adapted to include dynamic variants.
+
+Speakers
+* Dr. Aditi Shenvi 
 
 #### Algebraic 
 
@@ -25,5 +31,8 @@ This session discusses algebraic advancements adjacent to context-specific and a
 #### Applications
 
 This session explores powerful applications of these broader models. Particular cases include legal applications and medial studies.
+
+Speakers: 
+* Dr. Gail Robertson, Universty of Edinburgh 
 
 
