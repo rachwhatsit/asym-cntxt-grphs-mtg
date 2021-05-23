@@ -13,7 +13,7 @@ How do asymmetric and context-specific models generate more flexible causal infe
 
 #### Categorical Data 
 
-Asymmetric and contex-specific graphical models ar eparticularly adept at handling categorical data. 
+Asymmetric and contex-specific graphical models are particularly adept at handling categorical data. 
 
 Speakers:
 * Dr. Federica Nicolussi
@@ -24,6 +24,8 @@ Tree-based and context-specific models are being adapted to include dynamic vari
 
 Speakers
 * Dr. Aditi Shenvi 
+* Dr. Rodrigo Collazo
+* Dr. Oliver Bunnin
 
 #### Algebraic 
 
@@ -34,5 +36,6 @@ This session explores powerful applications of these broader models. Particular 
 
 Speakers: 
 * Dr. Gail Robertson, Universty of Edinburgh 
+* Peter Strong
 
 
