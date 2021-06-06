@@ -11,21 +11,24 @@ TBD
 
 How do asymmetric and context-specific models generate more flexible causal inference? 
 
+Speakers: 
+* Xuewen Yu, University of Warwick
+
 #### Categorical Data 
 
 Asymmetric and contex-specific graphical models are particularly adept at handling categorical data. 
 
 Speakers:
-* Dr. Federica Nicolussi
+* Dr. Federica Nicolussi, University of Milan
 
 #### Dynamic Variants
 
 Tree-based and context-specific models are being adapted to include dynamic variants.
 
 Speakers
-* Dr. Aditi Shenvi 
+* Dr. Aditi Shenvi, University of Warwick
 * Dr. Rodrigo Collazo
-* Dr. Oliver Bunnin
+* Dr. Oliver Bunnin, Alan Turing Institute
 
 #### Algebraic 
 
@@ -36,6 +39,6 @@ This session explores powerful applications of these broader models. Particular 
 
 Speakers: 
 * Dr. Gail Robertson, Universty of Edinburgh 
-* Peter Strong
+* Peter Strong, University of Warwick
 
 
