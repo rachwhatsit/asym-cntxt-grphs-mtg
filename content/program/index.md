@@ -1,9 +1,13 @@
-## Tutorial 
+Monday, July 19
 
-Title: Using the `stagedtrees` packageto fit Staged Event Trees  
+10:00-12:00 BST
+## Tutorial 
+Title: Using the `stagedtrees` package to fit Staged Event Trees  
 Speaker: Dr. Gherardo Varando
 
 ## Sessions
+
+12:30-14:00 BST
 #### Causal inference 
 
 How do asymmetric and context-specific models generate more flexible causal inference? 
@@ -11,6 +15,7 @@ How do asymmetric and context-specific models generate more flexible causal infe
 ##### Speakers
 * Xuewen Yu, University of Warwick
 
+14:30-16:00 BST
 #### Categorical Data 
 
 Asymmetric and contex-specific graphical models are particularly adept at handling categorical data. 
@@ -18,6 +23,9 @@ Asymmetric and contex-specific graphical models are particularly adept at handli
 ##### Speakers:
 * Dr. Federica Nicolussi, University of Milan
 
+Tuesday, July 20
+
+10:00-11:30 BST
 #### Dynamic Variants
 
 Tree-based and context-specific models are being adapted to include dynamic variants.
@@ -27,6 +35,7 @@ Tree-based and context-specific models are being adapted to include dynamic vari
 * Dr. Rodrigo Collazo
 * Dr. Oliver Bunnin, Alan Turing Institute
 
+12:00-1:30 BST
 #### Algebraic 
 
 This session discusses algebraic advancements adjacent to context-specific and asymmetric graphical models. 
@@ -34,6 +43,7 @@ This session discusses algebraic advancements adjacent to context-specific and a
 
 *Dr. Eliana Duarte, Otto-von-Guericke Universität Magdeburg
 
+2:00-3:30 BST
 #### Applications
 
 This session explores powerful applications of these broader models. Particular cases include legal applications and medial studies.
@@ -42,5 +52,8 @@ This session explores powerful applications of these broader models. Particular 
 
 * Dr. Gail Robertson, Universty of Edinburgh 
 * Peter Strong, University of Warwick
+* Dr. Geraldine McLeod, Universty of Otango 
 
-
+4:00-4:45 BST 
+## Closing Remarks
+Dr. Jim Smith, University of Warwick and Alan Turing Institute
