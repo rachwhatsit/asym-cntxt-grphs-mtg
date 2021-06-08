@@ -26,14 +26,16 @@ Asymmetric and contex-specific graphical models are particularly adept at handli
 Tuesday, July 20
 
 10:00-11:30 BST
-#### Dynamic Variants
+#### Applications
 
-Tree-based and context-specific models are being adapted to include dynamic variants.
+This session explores powerful applications of these broader models. Particular cases include legal applications and medial studies.
 
 ##### Speakers
-* Dr. Aditi Shenvi, University of Warwick
-* Dr. Rodrigo Collazo
-* Dr. Oliver Bunnin, Alan Turing Institute
+
+* Dr. Gail Robertson, Universty of Edinburgh 
+* Peter Strong, University of Warwick
+* Dr. Geraldine McLeod, Universty of Otango
+
 
 12:00-1:30 BST
 #### Algebraic 
@@ -45,15 +47,15 @@ This session discusses algebraic advancements adjacent to context-specific and a
 * Dr. Aida Maraj and Dr. Lisa Nicklasson, Max Planck Institute for Mathematics in the Sciences
 
 2:00-3:30 BST
-#### Applications
+#### Dynamic Variants
 
-This session explores powerful applications of these broader models. Particular cases include legal applications and medial studies.
+Tree-based and context-specific models are being adapted to include dynamic variants.
 
 ##### Speakers
+* Dr. Aditi Shenvi, University of Warwick
+* Dr. Rodrigo Collazo
+* Dr. Oliver Bunnin, Alan Turing Institute
 
-* Dr. Gail Robertson, Universty of Edinburgh 
-* Peter Strong, University of Warwick
-* Dr. Geraldine McLeod, Universty of Otango 
 
 4:00-4:45 BST 
 ## Closing Remarks
