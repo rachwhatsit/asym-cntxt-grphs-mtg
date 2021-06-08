@@ -16,6 +16,7 @@ social:
 superuser: false
 user_groups:
   - Organizers
+  - Speakers
 ---
 I recently completed my PhD at the University of Warwick on modelling dynamic asymmetric processes with chain event graphs, looking at applications in public health and policing. I will be starting a postdoc at Warwick in September this year. 
 

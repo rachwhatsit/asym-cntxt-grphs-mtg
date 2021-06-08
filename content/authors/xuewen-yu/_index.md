@@ -10,4 +10,6 @@ organizations:
   - name: University of Warwick
 email: ""
 superuser: false
+user_groups:
+  - Speakers
 ---
