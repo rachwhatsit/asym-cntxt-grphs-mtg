@@ -41,7 +41,8 @@ Tree-based and context-specific models are being adapted to include dynamic vari
 This session discusses algebraic advancements adjacent to context-specific and asymmetric graphical models. 
 ##### Speakers
 
-*Dr. Eliana Duarte, Otto-von-Guericke Universität Magdeburg
+* Dr. Eliana Duarte, Otto-von-Guericke Universität Magdeburg
+* Dr. Aida Maraj and Dr. Lisa Nicklasson, Max Planck Institute for Mathematics in the Sciences
 
 2:00-3:30 BST
 #### Applications
