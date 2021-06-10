@@ -34,7 +34,7 @@ This session explores powerful applications of these broader models. Particular 
 
 * Dr. Gail Robertson, Universty of Edinburgh 
 * Peter Strong, University of Warwick
-* Dr. Geraldine McLeod, Universty of Otango
+* Dr. Geraldine McLeod, Universty of Otago
 
 
 12:00-1:30 BST
