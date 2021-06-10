@@ -1,5 +1,5 @@
 ---
-title: Dr. Geraldine McLeod
+title: Geraldine McLeod
 role: Senior Research Fellow
 avatar_filename: avatar.jpg
 social: []
