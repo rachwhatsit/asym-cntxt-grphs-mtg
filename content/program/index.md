@@ -24,6 +24,9 @@ This session discusses algebraic advancements adjacent to context-specific and a
 * Dr. Eliana Duarte, Otto-von-Guericke Universität Magdeburg
 * Dr. Aida Maraj and Dr. Lisa Nicklasson, Max Planck Institute for Mathematics in the Sciences
 
+16:00-16:50 BST 
+Dr. Pedro Ortega, DeepMind
+
 
 Tuesday, July 20
 
