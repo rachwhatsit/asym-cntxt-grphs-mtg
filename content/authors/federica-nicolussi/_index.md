@@ -1,6 +1,6 @@
 ---
 title: Federica Nicolussi
-role: Postdoctoral Researcher
+role: Assistant Professor
 avatar_filename: federica_nicolussi_foto.png
 bio: ""
 social:
