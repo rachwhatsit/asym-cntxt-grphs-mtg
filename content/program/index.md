@@ -16,12 +16,14 @@ How do asymmetric and context-specific models generate more flexible causal infe
 * Xuewen Yu, University of Warwick
 
 14:30-16:00 BST
-#### Categorical Data 
+#### Algebraic 
 
-Asymmetric and contex-specific graphical models are particularly adept at handling categorical data. 
+This session discusses algebraic advancements adjacent to context-specific and asymmetric graphical models. 
+##### Speakers
 
-##### Speakers:
-* Dr. Federica Nicolussi, University of Milan
+* Dr. Eliana Duarte, Otto-von-Guericke Universität Magdeburg
+* Dr. Aida Maraj and Dr. Lisa Nicklasson, Max Planck Institute for Mathematics in the Sciences
+
 
 Tuesday, July 20
 
@@ -38,13 +40,12 @@ This session explores powerful applications of these broader models. Particular 
 
 
 12:00-1:30 BST
-#### Algebraic 
+#### Categorical Data 
 
-This session discusses algebraic advancements adjacent to context-specific and asymmetric graphical models. 
-##### Speakers
+Asymmetric and contex-specific graphical models are particularly adept at handling categorical data. 
 
-* Dr. Eliana Duarte, Otto-von-Guericke Universität Magdeburg
-* Dr. Aida Maraj and Dr. Lisa Nicklasson, Max Planck Institute for Mathematics in the Sciences
+##### Speakers:
+* Dr. Federica Nicolussi, University of Milan
 
 2:00-3:30 BST
 #### Dynamic Variants
