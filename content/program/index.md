@@ -46,6 +46,7 @@ Asymmetric and contex-specific graphical models are particularly adept at handli
 
 ##### Speakers:
 * Dr. Federica Nicolussi, University of Milan
+* Dr. Argiento Raffaele, Università Cattolica del Sacro Cuore
 
 2:00-3:30 BST
 #### Dynamic Variants
