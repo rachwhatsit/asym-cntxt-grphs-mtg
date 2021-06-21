@@ -1,67 +1,49 @@
+Please note all times are in BST.
+
 Monday, July 19
 
-10:00-12:00 BST
 ## Tutorial 
-Title: Using the `stagedtrees` package to fit Staged Event Trees  
-Speaker: Dr. Gherardo Varando
+10:00-12:00 Dr. Gherardo Varando
+Using the `stagedtrees` package to fit Staged Event Trees  
 
-## Sessions
+#### Algebraic
 
-12:30-14:00 BST
-#### Causal inference 
+12:30-1:15 Dr. Eliana Duarte, Otto-von-Guericke Universität Magdeburg
+1:15-14:00 Dr. Aida Maraj and Dr. Lisa Nicklasson, Max Planck Institute for Mathematics in the Sciences
 
-How do asymmetric and context-specific models generate more flexible causal inference? 
+14:00-14:30 Break 
 
-##### Speakers
-* Xuewen Yu, University of Warwick
+#### Causality
 
-14:30-16:00 BST
-#### Algebraic 
+14:30-15:15 Dr. Glenn Shafer
+15:15-16:00 Xuewen Yu, University of Warwick
 
-This session discusses algebraic advancements adjacent to context-specific and asymmetric graphical models. 
-##### Speakers
+16:00-16:10 Break
 
-* Dr. Eliana Duarte, Otto-von-Guericke Universität Magdeburg
-* Dr. Aida Maraj and Dr. Lisa Nicklasson, Max Planck Institute for Mathematics in the Sciences
-
-16:00-16:50 BST 
-Dr. Pedro Ortega, DeepMind
+#### Keynote
+16:10-17:00  Dr. Pedro Ortega, DeepMind
 
 
 Tuesday, July 20
 
-10:00-11:30 BST
 #### Applications
 
-This session explores powerful applications of these broader models. Particular cases include legal applications and medial studies.
-
-##### Speakers
-
-* Dr. Gail Robertson, Universty of Edinburgh 
-* Peter Strong, University of Warwick
-* Dr. Geraldine McLeod, Universty of Otago
+10:00-10:30 Dr. Geraldine McLeod, Universty of Otago
+10:30-11:00 Dr. Gail Robertson, Universty of Edinburgh 
+11:00-11:30 Peter Strong, University of Warwick
 
 
-12:00-1:30 BST
-#### Categorical Data 
-
-Asymmetric and contex-specific graphical models are particularly adept at handling categorical data. 
-
-##### Speakers:
-* Dr. Federica Nicolussi, University of Milan
-* Dr. Argiento Raffaele, Università Cattolica del Sacro Cuore
-
-2:00-3:30 BST
 #### Dynamic Variants
 
-Tree-based and context-specific models are being adapted to include dynamic variants.
+12:00-12:30 Dr. Aditi Shenvi, University of Warwick
+12:30-13:00 Dr. Rodrigo Collazo
+13:00-13:30 Dr. Oliver Bunnin, Alan Turing Institute
 
-##### Speakers
-* Dr. Aditi Shenvi, University of Warwick
-* Dr. Rodrigo Collazo
-* Dr. Oliver Bunnin, Alan Turing Institute
+13:30-2:00 Break
 
+#### Categorical Data 
+2:00-2:45 Dr. Federica Nicolussi, University of Milan
+2:45-3:30 Dr. Argiento Raffaele, Università Cattolica del Sacro Cuore
 
-4:00-4:45 BST 
-## Closing Remarks
-Dr. Jim Smith, University of Warwick and Alan Turing Institute
+#### Closing Remarks
+4:00-4:45 Dr. Jim Smith, University of Warwick and Alan Turing Institute
