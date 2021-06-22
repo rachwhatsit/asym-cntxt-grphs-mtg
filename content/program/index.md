@@ -39,11 +39,11 @@ Tuesday, July 20
 12:30-13:00 Dr. Rodrigo Collazo  
 13:00-13:30 Dr. Oliver Bunnin, Alan Turing Institute  
 
-13:30-2:00 Break
+13:30-2:15 Break
 
 #### Categorical Data 
-2:00-2:45 Dr. Federica Nicolussi, University of Milan  
-2:45-3:30 Dr. Argiento Raffaele, Università Cattolica del Sacro Cuore  
+2:15-3:00 Dr. Federica Nicolussi, University of Milan  
+3:00-3:45 Dr. Argiento Raffaele, Università Cattolica del Sacro Cuore  
 
-#### Closing Remarks
+#### Chain Event Graphs: New Horizons
 4:00-4:45 Dr. Jim Smith, University of Warwick and Alan Turing Institute  
