@@ -10,6 +10,8 @@ organizations:
   - name: The University of Warwick
     url: https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/smith/
 superuser: false
+user_groups:
+  - Speakers
 ---
 Jim Smith is a foundational Bayesian Statistician and Decision Analyst based at Warwick University. He started as a mathematical statistician specialising in dynamic dynamic models especially their implicit geometry and algebraic description and still publishes in these areas. However most of his work over the last twenty years or so lies on the interface between machine learning, statistics and operations research particularly within the realm of complex models and high dimensional data. He is especially skilled in developing bespoke graphical representations of problems - often dynamic ones such as dynamic Bayes nets, flow graphs multiregression dynamic models and most recently chain event graphs.
 
