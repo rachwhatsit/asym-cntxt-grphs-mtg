@@ -24,4 +24,4 @@ July 19-20, 2021
 ## Baylor University 
 Department of Statistics
 
-#[Register now!]({{< ref "registration/index.md" >}}) 
+# [Register now!]({{< ref "registration/index.md" >}}) 
