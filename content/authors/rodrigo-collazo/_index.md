@@ -9,6 +9,8 @@ social:
     icon: researchgate
     link: https://www.researchgate.net/profile/Rodrigo-Collazo
 superuser: false
+user_groups:
+  - Speakers
 ---
 Rodrigo Collazo has just retired after serving 30 years in the Brazilian Navy. At sea, he
 commanded a military school ship used to train the Brazilian midships. During his career, he
