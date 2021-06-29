@@ -1,7 +1,7 @@
 ---
 title: "Jim Smith "
 avatar_filename: jim.jpeg
-role: University Professor
+role:  Professor
 interests:
   - Professor
 social: []
