@@ -8,8 +8,8 @@ Using the `stagedtrees` package to fit Staged Event Trees
 
 #### Algebraic
 
-12:30-1:15 Dr. Eliana Duarte, Otto-von-Guericke Universität Magdeburg  
-1:15-14:00 Dr. Aida Maraj and Dr. Lisa Nicklasson, Max Planck Institute for Mathematics in the Sciences  
+12:30-13:15 Dr. Eliana Duarte, Otto-von-Guericke Universität Magdeburg  
+13:15-14:00 Dr. Aida Maraj and Dr. Lisa Nicklasson, Max Planck Institute for Mathematics in the Sciences  
 
 14:00-14:30 Break 
 
@@ -39,11 +39,11 @@ Tuesday, July 20
 12:30-13:00 Dr. Rodrigo Collazo  
 13:00-13:30 Dr. Oliver Bunnin, Alan Turing Institute  
 
-13:30-2:15 Break
+13:30-14:15 Break
 
 #### Categorical Data 
-2:15-3:00 Dr. Federica Nicolussi, University of Milan  
-3:00-3:45 Dr. Argiento Raffaele, Università Cattolica del Sacro Cuore  
+14:15-15:00 Dr. Federica Nicolussi, University of Milan  
+15:00-15:45 Dr. Argiento Raffaele, Università Cattolica del Sacro Cuore  
 
 #### Chain Event Graphs: New Horizons
-4:00-4:45 Dr. Jim Smith, University of Warwick and Alan Turing Institute  
+16:00-16:45 Dr. Jim Smith, University of Warwick and Alan Turing Institute  
