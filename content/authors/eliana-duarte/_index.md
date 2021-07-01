@@ -16,5 +16,7 @@ social:
 organizations:
   - name: Otto-Von-Guericke Universität Magdeburg
 superuser: false
+user_groups:
+  - Speakers
 ---
 I am a postdoctoral researcher at the Mathematical Complexity Reduction research training group at Otto-Von-Guericke Universität Magdeburg. My research is in the area of algebraic statistics. My work is concerned with graphical models, staged tree models and the study of the maximum likelihood degree of statistical models.
